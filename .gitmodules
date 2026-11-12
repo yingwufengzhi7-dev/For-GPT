@@ -1,0 +1,6 @@
+[submodule "external/mcp-for-blender"]
+	path = external/mcp-for-blender
+	url = https://github.com/ahujasid/mcp-for-blender.git
+[submodule "external/blender-skills"]
+	path = external/blender-skills
+	url = https://github.com/arjun988/blender-skills.git
